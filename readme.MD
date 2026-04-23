@@ -1,6 +1,6 @@
 # Facebook Scraper (Playwright + Python)
 
-A simple script to collect Facebook search results (e.g. *salwar kameez*, *organic food*) and export them to CSV.
+A simple script to collect Facebook search results (e.g. *salwar kameez*, *organic food*, *electric gadgets*) and export them to CSV.
 
 ---
 
