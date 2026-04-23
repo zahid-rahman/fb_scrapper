@@ -1,4 +1,4 @@
-# Facebook Scraper (Playwright + Python)
+# Facebook Scraper (Playwright + Python) - Educational Purpose
 
 A simple script to collect Facebook search results (e.g. *salwar kameez*, *organic food*, *electric gadgets*) and export them to CSV.
 
@@ -168,4 +168,6 @@ For learning and small-scale usage only. Respect platform policies and avoid agg
 
 ## 👨‍💻 Author
 
+Md Zahid Rahman
+An enthusiastic software engineer
 Built for experimentation and learning.
